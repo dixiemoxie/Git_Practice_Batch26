@@ -6,10 +6,4 @@ public class Third {
         System.out.println("Hello to file 3");
     }
 
-    // this is my second commit
-
-    // this is my third commit
-
-
-
 }
